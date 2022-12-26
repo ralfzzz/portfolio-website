@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Profil Protfolio</title>
+  <!-- Tambahkan link ke Bootstrap CSS di sini -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <style>
+    /* Tulis CSS Anda di sini */
+  </style>
+</head>
+<body>
+  <!-- Gunakan elemen-elemen Bootstrap di sini -->
+  <header class="bg-primary text-white p-4">
+    <h1 class="text-center">Profil Protfolio</h1>
+  </header>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+    <a class="navbar-brand" href="#">Menu</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#tentang">Tentang Saya</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#pengalaman">Pengalaman</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#keahlian">Keahlian</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#kontak">Kontak</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <main class="container p-4">
+    <section id="tentang">
+      <h2>Tentang Saya</h2>
+      <p>Tuliskan informasi tentang diri Anda di sini</p>
+    </section>
+    <section id="pengalaman">
+      <h2>Pengalaman</h2>
+      <h3>Pekerjaan 1</h3>
+      <p>Tuliskan deskripsi pekerjaan dan tanggung jawab yang Anda miliki di sini</p>
+      <h3>Pekerjaan 2</h3>
+      <p>Tuliskan deskripsi pekerjaan dan tanggung jawab yang Anda miliki di sini</p>
+    </section>
+    <section id="keahlian">
+      <h2>Keahlian</h2>
+      <ul>
+        <li>Keahlian 1</li>
+        <li>Keahlian 2</li>
+        <li>Keahlian 3</li>
+      </ul>
+    </section>
+    <section id="kontak">
+      <h2>Kontak</h2>
+      <p>Alamat Email: alamat@email.com</p>
+      <p>Nomor Telepon: 123-456-7890</p>
+    </section>
+  </main>
+  <footer class="bg-secondary text-white p-4 text-center">
+    <p>Copyright 2021 - Dibuat oleh Anda</p>
+  </footer>
