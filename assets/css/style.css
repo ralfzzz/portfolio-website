@@ -2,17 +2,27 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.header{
-    background-color: #002F7B;
-}
-
-.nav-pills .nav-link.active{
-    background-color: #AFEB8F;
-    color: #002F7B;
+.header .navbar{
+    background-color: #002F7B !important;
 }
 
 .nav-link{
-    color: #AFEB8F;
+    color: #AFEB8F !important;
+    /* margin: 1px; */
+}
+
+.nav-link:hover{
+    color: aliceblue !important;
+}
+
+.navbar-toggler{
+    margin-bottom: 5px;
+}
+
+.nav-link.active{
+    background-color: #AFEB8F !important;
+    color: #002F7B !important;
+    border-radius: 10px;
 }
 
 .content{
