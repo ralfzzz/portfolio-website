@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rifqi's Portfolio</title>
+</head>
+<body>
+
+    <header style="padding-top: 1%; padding-bottom: 1%; text-align: center; background-color: black; color: white;">| HTML Website Capstone Project |</header>
+
+    <img src="./assets/img/photo.jpeg" alt="rifqi's foto" height="150" style="display: block; margin: 0 auto; padding-top: 10px;" />
+
+    <h1 style="text-align: center;">Rifqi Aziz Muhammad</h1>
+    <p style="text-align: center;">Technical Support Fullstack Developer | Electronics and Instrumentation</p>
+
+    <hr />
+    <h2 style="text-align: center;">Aboute Me</h2>
+    <div style="text-align: center;"><a href="./assets/pages/about.html"><button>Link</button></a></div>
+
+    <hr />
+    <h2 style="text-align: center;">Work & Project Experience</h2>
+    <div style="text-align: center;"><a href="./assets/pages/experience.html"><button>Link</button></a></div>
+
+    <hr />
+    <h2 style="text-align: center;">Education</h2>
+    <div style="text-align: center;"><a href="./assets/pages/education.html"><button>Link</button></a></div>
+
+    <hr />
+    <h2 style="text-align: center;">Certification & Publication</h2>
+    <div style="text-align: center;"><a href="./assets/pages/certtificaiton.html"><button>Link</button></a></div>
+
+    <hr />
+    <h2 style="text-align: center;">Organization Experience</h2>
+    <div style="text-align: center;"><a href="./assets/pages/organization.html"><button>Link</button></a></div>
+
+    <hr />
+    <h2 style="text-align: center;">Technical Skills</h2>
+    <div style="text-align: center;"><a href="./assets/pages/skills.html"><button>Link</button></a></div>
+    
+    <hr />
+    <h2 style="text-align: center;">Contact Me</h2>
+    <div style="text-align: center;"><a href="./assets/pages/contact.html"><button>Link</button></a></div>
+
+    <hr />
+    <footer style="padding-top: 1%; padding-bottom: 1%; text-align: center; background-color: black; color: white;">Copyright &copy; 2023  Rifqi Aziz Muhammad</footer>
+
+</body>
+</html>

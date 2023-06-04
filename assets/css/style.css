@@ -1,0 +1,66 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    background-color: #002F7B;
+}
+
+.nav-pills .nav-link.active{
+    background-color: #AFEB8F;
+    color: #002F7B;
+}
+
+.nav-link{
+    color: #AFEB8F;
+}
+
+.content{
+    background-color: #002F7B;
+}
+
+.content .container.border{
+    border-color: #AFEB8F !important;
+}
+
+.content h1{
+    color: #AFEB8F !important;
+}
+
+.content p.lead{
+    /* background-color: white; */
+    color: #AFEB8F;
+}
+
+.about{
+    background-color: #002F7B;
+}
+
+.about .container{
+    background-color: #AFEB8F;
+}
+
+.about .border{
+    border-color: #002F7B !important;
+}
+
+.about h1, .about p{
+    color: #002F7B !important;
+}
+
+.footer{
+    background-color: #002F7B;
+}
+
+footer .text-body-secondary{
+    color: #AFEB8F !important;
+}
+
+footer > ul.border-bottom {
+    border-color: #AFEB8F !important;
+}
+
+footer > p.reach{
+    font-weight: 500;
+    font-size: 20px !important;
+}
